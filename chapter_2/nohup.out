@@ -1,0 +1,5 @@
+Serving TensorBoard on localhost; to expose to the network, use a proxy or pass --bind_all
+TensorBoard 2.2.2 at http://localhost:6006/ (Press CTRL+C to quit)
+W0612 22:14:06.514618 123145422725120 plugin_event_accumulator.py:323] Found more than one graph event per run, or there was a metagraph containing a graph_def, as well as one or more graph events.  Overwriting the graph with the newest event.
+W0612 22:19:16.830326 123145422725120 plugin_event_multiplexer.py:263] Deleting accumulator 'validation'
+W0612 22:19:16.830586 123145422725120 plugin_event_multiplexer.py:263] Deleting accumulator 'train'
