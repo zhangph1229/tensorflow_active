@@ -1,0 +1,4 @@
+./chapter_4/generate_csv/*
+./chapter_4/generate_tfrecords/*
+./chapter_4/generate_tfrecords_zip/*
+./chapter_4/tfrecord_basic/*
